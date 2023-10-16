@@ -23,7 +23,7 @@ require (
 	sigs.k8s.io/yaml v1.3.0
 )
 
-require gomodules.xyz/jsonpatch/v2 v2.2.0
+require gomodules.xyz/jsonpatch/v2 v2.4.0
 
 require (
 	cloud.google.com/go v0.81.0 // indirect
